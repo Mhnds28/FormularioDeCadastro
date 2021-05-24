@@ -31,4 +31,10 @@ main h1{
 
 }
 
-main 
+main.social-media{
+    display:flex;
+}
+
+main .social-media img{
+    width: 36px;
+}
